@@ -69,7 +69,7 @@ is to take a look at the following online resources:
 
 - `Python Scientific Lecture Notes <http://www.scipy-lectures.org/index.html>`_
 
-- `NumPy User Guide <http://docs.scipy.org/doc/numpy-dev/user/>`_ 
+- `NumPy User Guide <https://docs.scipy.org/doc/numpy/user/>`_ 
 
 - `SciPy Tutorial <http://docs.scipy.org/doc/scipy/reference/tutorial/index.html>`_ 
   contains examples for each submodule in the SciPy library
